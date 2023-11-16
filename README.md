@@ -1,5 +1,7 @@
 # FrameFlow: The SXNVMQE Edition
 
+![frameflow](epic_explanation.png)
+
 #### Minecraft but *Optimized!*
 
 Download .zip above!

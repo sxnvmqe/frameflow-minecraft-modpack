@@ -2,8 +2,12 @@
 
 #### Minecraft but *Optimized!*
 
-Mod list: | Version
+Download .zip above!
+
+Mod loader: | Version
 --- | ---
+[Fabric Loader](https://fabricmc.net) | 0.14.24
+**Mod list:**
 [Bad Packets](https://modrinth.com/mod/badpackets) | 0.5.4
 [BetterF3](https://modrinth.com/mod/betterf3) | 8.0.2
 [Cloth Config](https://modrinth.com/mod/cloth-config) | 12.0.109
